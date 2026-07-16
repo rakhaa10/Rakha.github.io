@@ -7,6 +7,6 @@
     <center>
           <h1><b><u>Welcome at my website</u></b>
            <Marquee>it's work</Marquee>
-           NAMA  :Rakha
-           NPM :1225030
+           NAMA: Rakha
+           NPM: 1225030
     
