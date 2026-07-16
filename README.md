@@ -8,8 +8,8 @@
     <center>
           <h1><b><u>Welcome at my website</u></b></h1
            <Marquee>it's work</Marquee>
-           <h3>NAMA  :Rakha</h1>
-           <h3> NPM :1225030</h1>
+           NAMA  :Rakha
+           NPM :1225030
            
        </center>
 </body>
