@@ -7,7 +7,7 @@
     <center>
           <h1><b><u>Welcome at my website</u></b>
            <Marquee>it's work</Marquee>
-           NAMA: Rakha
+           NAMA: Rakha Fairuz 
               
            NPM: 1225030
     
